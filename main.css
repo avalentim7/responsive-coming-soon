@@ -18,8 +18,8 @@ header {
     text-align: center;
     min-height: 100vh;
 
-    background-image: url('wallpaper-food.jpg');
-    /* background-image: url('wallpaper-wine.jpg'); */
+    /* background-image: url('wallpaper-food.jpg'); */
+    background-image: url('wallpaper-wine.jpg');
     background-size: cover;
     background-position: center;
 
